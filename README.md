@@ -1,2 +1,2 @@
 # yang-garden
-尝试一个ts+react的组件库
+尝试学着做一个ts+react的组件库
